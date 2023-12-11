@@ -1,1 +1,114 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":false,"shape":"circle"},"profile":{"name":"唐琛","email":"jamiemaple007@gmail.com","mobile":"13874990740","github":"https://github.com/JamieMaple","zhihu":"","workExpYear":"","workPlace":"","positionTitle":"前端工程师"},"educationList":[{"edu_time":["2016.09.01","2020.06.30"],"school":"华中师范大学","major":"信息管理与信息系统","academic_degree":"本科","dataIndex":0}],"awardList":[],"workExpList":[{"company_name":"字节跳动","department_name":"互娱研发前端基础工程","work_time":"2020.07.01,2022.11.30","work_desc":"1. 担任高级前端开发工程师\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设","dataIndex":0},{"company_name":"字节跳动","department_name":"电商/财经前端研发","work_time":"2022.12.01","work_desc":"前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。","dataIndex":1},{"work_time":"2016.09.01,2020.06.30","company_name":"腾讯","department_name":"CSIG 腾讯云","work_desc":"前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。","dataIndex":2}],"skillList":[{"skill_name":"TypeScript / JavaScript","skill_level":90},{"skill_name":"React / Vue / 前端工程化","skill_desc":"大型前端项目经验以及组件库开发经验","skill_level":80,"dataIndex":1},{"skill_name":"Golang 后端开发","skill_level":70,"skill_desc":"高并发、高可用性开发经验","dataIndex":2}],"projectList":[{"project_name":"Gecko","project_role":"前端高级工程师","project_time":"2020.09 - 2022.12","project_desc":"面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。","project_content":"1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率","dataIndex":0},{"project_name":"Bee","project_role":"技术负责人","project_time":"2018.07 - 2019.04 / 2020.07 - 至今","project_desc":"DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。","project_content":"BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设","dataIndex":1},{"project_name":"抖音电商 - 抖店平台","project_role":"核心开发者","project_time":"2019 - 至今","project_desc":"G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库","project_content":"AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。","dataIndex":2}],"workList":[],"aboutme":{"aboutme_desc":"🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。\n    "},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+  "titleNameMap": {
+    "educationList": "Educational background",
+    "workExpList": "Work experience",
+    "projectList": "Project experience",
+    "skillList": "Personal skills",
+    "awardList": "More information",
+    "workList": "Personal work",
+    "aboutme": "Introduction"
+  },
+  "avatar": {
+    "hidden": false,
+    "shape": "circle",
+    "src": "https://i2.100024.xyz/2023/12/11/hipg12.webp"
+  },
+  "profile": {
+    "name": "Tang chen",
+    "email": "jamiemaple007@gmail.com",
+    "mobile": "13874990740",
+    "github": "https://github.com/JamieMaple",
+    "zhihu": "",
+    "workExpYear": "",
+    "workPlace": "",
+    "positionTitle": "Frontend engineer"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2016.09.01",
+        "2020.06.30"
+      ],
+      "school": "Central China Normal University",
+      "major": "Management Information System",
+      "academic_degree": "Bachelor",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [],
+  "workExpList": [
+    {
+      "company_name": "Bytedance",
+      "department_name": "IES frontend foundation",
+      "work_time": "2020.07.01,2022.11.30",
+      "work_desc": "1. Serve as a senior front-end development engineer, also responsible for some backend service development.\n2. Responsible for the daily development and maintenance of front-end and back-end systems related to dynamic content distribution on the client side. Providing dynamic resource distribution services for apps such as Douyin, Toutiao, and Xigua Video. \n3. Supporting major company events like the Spring Festival and World Cup, ensuring high service availability, and catering to diverse customized requirements from various business aspects of the events.",
+      "dataIndex": 0
+    },
+    {
+      "company_name": "Bytedance",
+      "department_name": "E-commerce / Financial team",
+      "work_time": "2022.12.01,2023.06.07",
+      "work_desc": "1. Participating in e-commerce business BP support, assisting finance colleagues in client resource distribution work.\n2. Using React for developing features related to fund management for merchants, influencers, and other users in Douyin's e-commerce platform. Primarily supporting functions such as invoicing, tax planning, and rebate management. \n3. Maintenance and iterative development of the operation backend, aiming to facilitate the work of the operations team.",
+      "dataIndex": 1
+    },
+    {
+      "work_time": "2018.06.01,2018.09.30",
+      "company_name": "Tencent",
+      "department_name": "CSIG tencent cloud intern",
+      "work_desc": "Front-end intern. Engaged in the development of various products including a data research platform, data decision platform, and data analysis platform using React. Also involved in development work related to Tencent Cloud, demonstrating good coding practices.",
+      "dataIndex": 2
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "TypeScript / JavaScript",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "React / Vue",
+      "skill_desc": "Experience in large-scale front-end projects and development of component libraries.",
+      "skill_level": 80,
+      "dataIndex": 1
+    },
+    {
+      "skill_name": "Golang backend",
+      "skill_level": 70,
+      "skill_desc": "Experience in high concurrency and high availability development.",
+      "dataIndex": 2
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "Gecko",
+      "project_role": "Senior Fullstack Engineer",
+      "project_time": "2020.09 - 2022.12",
+      "project_desc": "Gecko is an internal resource distribution platform within ByteDance, focusing on file and data distribution scenarios. It concentrates on enhancing the dynamic capabilities of client-side applications for both mobile and desktop platforms. As a crucial infrastructure for entire suite of products, it aims to provide top-notch support for dynamic scenarios across ByteDance services. Gecko has been implemented for several years in various ByteDance apps such as Douyin, Toutiao, and Xigua Video, supporting numerous significant company events.",
+      "project_content": "Tailoring the platform experience meticulously for internal developers within ByteDance. \n1.Establishing an online mechanism for scenarios that require offline capabilities in case of failures. Currently, still under iteration, this mechanism has already assisted in enhancing development efficiency for businesses like Douyin Wallet and live streaming. \n2.Addressing on-call issues for fellow developers, providing solutions for client-side dynamic resource management both offline and online.",
+      "dataIndex": 0
+    },
+    {
+      "project_name": "Bee",
+      "project_role": "Technical Lead",
+      "project_time": "2020.07 - 2022.06",
+      "project_desc": "Bee is an internal operational data visualization configuration platform within ByteDance, designed for internal business operation teams. It aids these teams in dynamically configuring activity-related data.",
+      "project_content": "By visual configuration, it generates the necessary data for various types of activity pages. \n1. Leading platform capability construction, providing diverse data types and multiple deployment methods, integrating various in-house data services across the company.\n2. Product experience enhancement, particularly focusing on performance optimization of large forms using React.",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "Douyin Store Platform",
+      "project_role": "Core Developer",
+      "project_time": "2022.12 - 2023.06",
+      "project_desc": "Douyin Store is an all-in-one platform for merchants within Douyin's e-commerce, where sellers can complete a series of actions including onboarding, opening a Douyin store, listing products, managing orders, providing after-sales services, and more. Additionally, merchants can access learning materials, receive consultations, and notifications through this platform, assisting them in conducting e-commerce operations.",
+      "project_content": "1.Involved in the development of financial modules related to Douyin Store.\n2.Optimized and streamlined project engineering, refactoring the project by introducing Tailwind, SWR, DataLoader, and other tools.      ",
+      "dataIndex": 2
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "As a full-stack engineer with three years of experience in developing large and complex products, I have been responsible for building platforms such as internal client distribution and operational configuration visualization. I have actively participated in various major events, contributing extensive expertise in client distribution.\nInvolved in the finance front-end team, supporting the development work related to financial transactions in Douyin's e-commerce platform."
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
