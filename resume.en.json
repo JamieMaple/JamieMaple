@@ -1,0 +1,114 @@
+{
+  "titleNameMap": {
+    "educationList": "Educational background",
+    "workExpList": "Work experience",
+    "projectList": "Project experience",
+    "skillList": "Personal skills",
+    "awardList": "More information",
+    "workList": "Personal work",
+    "aboutme": "Introduction"
+  },
+  "avatar": {
+    "hidden": false,
+    "shape": "circle",
+    "src": "https://i2.100024.xyz/2023/12/11/hipg12.webp"
+  },
+  "profile": {
+    "name": "Tang chen",
+    "email": "jamiemaple007@gmail.com",
+    "mobile": "13874990740",
+    "github": "https://github.com/JamieMaple",
+    "zhihu": "",
+    "workExpYear": "",
+    "workPlace": "",
+    "positionTitle": "Frontend engineer"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2016.09.01",
+        "2020.06.30"
+      ],
+      "school": "Central China Normal University",
+      "major": "Management Information System",
+      "academic_degree": "Bachelor",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [],
+  "workExpList": [
+    {
+      "company_name": "Bytedance",
+      "department_name": "IES frontend foundation",
+      "work_time": "2020.07.01,2022.11.30",
+      "work_desc": "1. Serve as a senior front-end development engineer, also responsible for some backend service development.\n2. Responsible for the daily development and maintenance of front-end and back-end systems related to dynamic content distribution on the client side. Providing dynamic resource distribution services for apps such as Douyin, Toutiao, and Xigua Video. \n3. Supporting major company events like the Spring Festival and World Cup, ensuring high service availability, and catering to diverse customized requirements from various business aspects of the events.",
+      "dataIndex": 0
+    },
+    {
+      "company_name": "Bytedance",
+      "department_name": "E-commerce / Financial team",
+      "work_time": "2022.12.01,2023.06.07",
+      "work_desc": "1. Participating in e-commerce business BP support, assisting finance colleagues in client resource distribution work.\n2. Using React for developing features related to fund management for merchants, influencers, and other users in Douyin's e-commerce platform. Primarily supporting functions such as invoicing, tax planning, and rebate management. \n3. Maintenance and iterative development of the operation backend, aiming to facilitate the work of the operations team.",
+      "dataIndex": 1
+    },
+    {
+      "work_time": "2018.06.01,2018.09.30",
+      "company_name": "Tencent",
+      "department_name": "CSIG tencent cloud intern",
+      "work_desc": "Front-end intern. Engaged in the development of various products including a data research platform, data decision platform, and data analysis platform using React. Also involved in development work related to Tencent Cloud, demonstrating good coding practices.",
+      "dataIndex": 2
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "TypeScript / JavaScript",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "React / Vue",
+      "skill_desc": "Experience in large-scale front-end projects and development of component libraries.",
+      "skill_level": 80,
+      "dataIndex": 1
+    },
+    {
+      "skill_name": "Golang backend",
+      "skill_level": 70,
+      "skill_desc": "Experience in high concurrency and high availability development.",
+      "dataIndex": 2
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "Gecko",
+      "project_role": "Senior Fullstack Engineer",
+      "project_time": "2020.09 - 2022.12",
+      "project_desc": "Gecko is an internal resource distribution platform within ByteDance, focusing on file and data distribution scenarios. It concentrates on enhancing the dynamic capabilities of client-side applications for both mobile and desktop platforms. As a crucial infrastructure for entire suite of products, it aims to provide top-notch support for dynamic scenarios across ByteDance services. Gecko has been implemented for several years in various ByteDance apps such as Douyin, Toutiao, and Xigua Video, supporting numerous significant company events.",
+      "project_content": "Tailoring the platform experience meticulously for internal developers within ByteDance. \n1.Establishing an online mechanism for scenarios that require offline capabilities in case of failures. Currently, still under iteration, this mechanism has already assisted in enhancing development efficiency for businesses like Douyin Wallet and live streaming. \n2.Addressing on-call issues for fellow developers, providing solutions for client-side dynamic resource management both offline and online.",
+      "dataIndex": 0
+    },
+    {
+      "project_name": "Bee",
+      "project_role": "Technical Lead",
+      "project_time": "2020.07 - 2022.06",
+      "project_desc": "Bee is an internal operational data visualization configuration platform within ByteDance, designed for internal business operation teams. It aids these teams in dynamically configuring activity-related data.",
+      "project_content": "By visual configuration, it generates the necessary data for various types of activity pages. \n1. Leading platform capability construction, providing diverse data types and multiple deployment methods, integrating various in-house data services across the company.\n2. Product experience enhancement, particularly focusing on performance optimization of large forms using React.",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "Douyin Store Platform",
+      "project_role": "Core Developer",
+      "project_time": "2022.12 - 2023.06",
+      "project_desc": "Douyin Store is an all-in-one platform for merchants within Douyin's e-commerce, where sellers can complete a series of actions including onboarding, opening a Douyin store, listing products, managing orders, providing after-sales services, and more. Additionally, merchants can access learning materials, receive consultations, and notifications through this platform, assisting them in conducting e-commerce operations.",
+      "project_content": "1.Involved in the development of financial modules related to Douyin Store.\n2.Optimized and streamlined project engineering, refactoring the project by introducing Tailwind, SWR, DataLoader, and other tools.      ",
+      "dataIndex": 2
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "As a full-stack engineer with three years of experience in developing large and complex products, I have been responsible for building platforms such as internal client distribution and operational configuration visualization. I have actively participated in various major events, contributing extensive expertise in client distribution.\nInvolved in the finance front-end team, supporting the development work related to financial transactions in Douyin's e-commerce platform."
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}

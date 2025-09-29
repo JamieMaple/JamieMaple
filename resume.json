@@ -1,27 +1,27 @@
 {
   "titleNameMap": {
-    "educationList": "Educational background",
-    "workExpList": "Work experience",
-    "projectList": "Project experience",
-    "skillList": "Personal skills",
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目履历",
+    "skillList": "个人技能",
     "awardList": "More information",
     "workList": "Personal work",
-    "aboutme": "Introduction"
+    "aboutme": "自我介绍"
   },
   "avatar": {
     "hidden": false,
     "shape": "circle",
-    "src": "https://i2.100024.xyz/2023/12/11/hipg12.webp"
+    "src": "https://i.meee.com.tw/ONNMw0I.png"
   },
   "profile": {
-    "name": "Tang chen",
+    "name": "唐琛",
     "email": "jamiemaple007@gmail.com",
     "mobile": "13874990740",
     "github": "https://github.com/JamieMaple",
     "zhihu": "",
     "workExpYear": "",
     "workPlace": "",
-    "positionTitle": "Frontend engineer"
+    "positionTitle": ""
   },
   "educationList": [
     {
@@ -29,83 +29,81 @@
         "2016.09.01",
         "2020.06.30"
       ],
-      "school": "Central China Normal University",
-      "major": "Management Information System",
-      "academic_degree": "Bachelor",
+      "school": "华中师范大学",
+      "major": "信息管理与信息系统",
+      "academic_degree": "管理学学士学位",
       "dataIndex": 0
     }
   ],
   "awardList": [],
   "workExpList": [
     {
-      "company_name": "Bytedance",
-      "department_name": "IES frontend foundation",
-      "work_time": "2020.07.01,2022.11.30",
-      "work_desc": "1. Serve as a senior front-end development engineer, also responsible for some backend service development.\n2. Responsible for the daily development and maintenance of front-end and back-end systems related to dynamic content distribution on the client side. Providing dynamic resource distribution services for apps such as Douyin, Toutiao, and Xigua Video. \n3. Supporting major company events like the Spring Festival and World Cup, ensuring high service availability, and catering to diverse customized requirements from various business aspects of the events.",
+      "company_name": "Tigergraph",
+      "department_name": "Cloud & Tools",
+      "work_time": "2024.01.15",
+      "work_desc": "1. 负责Cloud和Tools相关项目前后端功能开发以及产品迭代，负责前端公用库维护以及项目工程化\n2. 为TG Cloud提供 Addons 扩展能力，引入 AI 功能支持\n3. 持续迭代 Tools Insihgts 等重点功能，为B端用户提供权限管理可视化需求支持\n4. 引入单元测试和E2E，将项目整体代码覆盖率从5%提高到50%",
       "dataIndex": 0
     },
     {
-      "company_name": "Bytedance",
-      "department_name": "E-commerce / Financial team",
+      "company_name": "字节跳动",
+      "department_name": "电商/财经前端研发",
       "work_time": "2022.12.01,2023.06.07",
-      "work_desc": "1. Participating in e-commerce business BP support, assisting finance colleagues in client resource distribution work.\n2. Using React for developing features related to fund management for merchants, influencers, and other users in Douyin's e-commerce platform. Primarily supporting functions such as invoicing, tax planning, and rebate management. \n3. Maintenance and iterative development of the operation backend, aiming to facilitate the work of the operations team.",
+      "work_desc": "1. 参与电商业务BP支持，协助财经同学进行客户端资源分发工作\n2. 使用 React 进行抖音电商商家、达人等用户资金管理相关开 发工作，主要支撑发票、税筹、返点等业务\n3. 维护并迭代运营后台相关，方便运营同学进行工作",
       "dataIndex": 1
     },
     {
-      "work_time": "2018.06.01,2018.09.30",
-      "company_name": "Tencent",
-      "department_name": "CSIG tencent cloud intern",
-      "work_desc": "Front-end intern. Engaged in the development of various products including a data research platform, data decision platform, and data analysis platform using React. Also involved in development work related to Tencent Cloud, demonstrating good coding practices.",
+      "company_name": "字节跳动",
+      "department_name": "互娱研发前端基础⼯程",
+      "work_time": "2020.07.01,2022.11.30",
+      "work_desc": "1. 担任⾼级前端开发⼯程师，同时负责部分后端服务开发\n2. 负责客户端动态下发相关前后端⽇常开发、维护等⼯作，为字节跳动抖⾳、今⽇头条、⻄⽠视频等App提供动态资源下发服务\n3. 支撑春节、世界杯等重大公司活动，保证服务高可用，支持活动业务方多样定制化需求",
       "dataIndex": 2
     }
   ],
   "skillList": [
     {
       "skill_name": "TypeScript / JavaScript",
-      "skill_level": 90
+      "skill_level": 95
     },
     {
-      "skill_name": "React / Vue",
-      "skill_desc": "Experience in large-scale front-end projects and development of component libraries.",
-      "skill_level": 80,
+      "skill_name": "React / Vue / Angular 前端工程化",
+      "skill_desc": "大型前端项目经验、组件库以及Monorepo开发经验",
+      "skill_level": 90,
       "dataIndex": 1
     },
     {
-      "skill_name": "Golang backend",
-      "skill_level": 70,
-      "skill_desc": "Experience in high concurrency and high availability development.",
+      "skill_name": "Golang 后端开发",
+      "skill_level": 80,
+      "skill_desc": "高并发开发经验",
       "dataIndex": 2
+    },
+    {
+      "skill_name": "Python",
+      "skill_level": 70,
+      "skill_desc": "后端开发以及E2E等自动化测试脚本经验",
+      "dataIndex": 3
     }
   ],
   "projectList": [
     {
       "project_name": "Gecko",
-      "project_role": "Senior Fullstack Engineer",
+      "project_role": "高级全栈工程师",
       "project_time": "2020.09 - 2022.12",
-      "project_desc": "Gecko is an internal resource distribution platform within ByteDance, focusing on file and data distribution scenarios. It concentrates on enhancing the dynamic capabilities of client-side applications for both mobile and desktop platforms. As a crucial infrastructure for entire suite of products, it aims to provide top-notch support for dynamic scenarios across ByteDance services. Gecko has been implemented for several years in various ByteDance apps such as Douyin, Toutiao, and Xigua Video, supporting numerous significant company events.",
-      "project_content": "Tailoring the platform experience meticulously for internal developers within ByteDance. \n1.Establishing an online mechanism for scenarios that require offline capabilities in case of failures. Currently, still under iteration, this mechanism has already assisted in enhancing development efficiency for businesses like Douyin Wallet and live streaming. \n2.Addressing on-call issues for fellow developers, providing solutions for client-side dynamic resource management both offline and online.",
+      "project_desc": "Gecko 是字节跳动内部资源分发中台，专注于文件和数据分发场景，聚焦于客户端（移动端/PC）动态化能力，是面向字节全系产品的重要基础设施，旨在向字节跳动服务提供业界一流的动态化场景支持；目前已在抖音、今日头条、西瓜视频等字节跳动系App落地多年，并已支持公司多次重大活动",
+      "project_content": "1. 面向字节跳动内部研发人员，对平台体验精雕细琢的打磨 2. 建立离线化失败场景下的在线机制。目前仍在迭代中，已帮助抖音钱包、直播等业务提高研发效率 3. 处理研发同学oncall问题，提供客户端动态化离线、在线资源解决方案",
       "dataIndex": 0
     },
     {
-      "project_name": "Bee",
-      "project_role": "Technical Lead",
-      "project_time": "2020.07 - 2022.06",
-      "project_desc": "Bee is an internal operational data visualization configuration platform within ByteDance, designed for internal business operation teams. It aids these teams in dynamically configuring activity-related data.",
-      "project_content": "By visual configuration, it generates the necessary data for various types of activity pages. \n1. Leading platform capability construction, providing diverse data types and multiple deployment methods, integrating various in-house data services across the company.\n2. Product experience enhancement, particularly focusing on performance optimization of large forms using React.",
-      "dataIndex": 1
-    },
-    {
-      "project_name": "Douyin Store Platform",
-      "project_role": "Core Developer",
+      "project_name": "抖音电商 - 抖店平台",
+      "project_role": "核心开发者",
       "project_time": "2022.12 - 2023.06",
-      "project_desc": "Douyin Store is an all-in-one platform for merchants within Douyin's e-commerce, where sellers can complete a series of actions including onboarding, opening a Douyin store, listing products, managing orders, providing after-sales services, and more. Additionally, merchants can access learning materials, receive consultations, and notifications through this platform, assisting them in conducting e-commerce operations.",
-      "project_content": "1.Involved in the development of financial modules related to Douyin Store.\n2.Optimized and streamlined project engineering, refactoring the project by introducing Tailwind, SWR, DataLoader, and other tools.      ",
-      "dataIndex": 2
+      "project_desc": "抖店是抖音电商商家一站式平台，在这里商家可以完成从入驻、开通抖音店铺、发布商品、订单履约、售后服务等一系列动作，同时也会从该平台获取学习资料、以及咨询、触达通知，帮助商家开展电商经营。",
+      "project_content": "1. 参与抖店资金模块相关的开发工作\n2. 优化梳理项目工程，引入tailwind、swr、dataloader 等对项目进行重构",
+      "dataIndex": 1
     }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "As a full-stack engineer with three years of experience in developing large and complex products, I have been responsible for building platforms such as internal client distribution and operational configuration visualization. I have actively participated in various major events, contributing extensive expertise in client distribution.\nInvolved in the finance front-end team, supporting the development work related to financial transactions in Douyin's e-commerce platform."
+    "aboutme_desc": "全栈工程师，目前就职于Tigergraph，目前主要负责 TG Cloud 和 Tools 等项目。5年大型复杂产品开发经验，负责过字节跳动内部客户端分发、运营配置可视化等平台建设，参与了多个大型活动，对客户端分发有较为丰富的经验。\n参与财经前端团队，支持抖音电商财经相关支付业务的开发工作。"
   },
   "theme": {
     "color": "#2f5785",
