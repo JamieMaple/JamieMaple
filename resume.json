@@ -61,6 +61,18 @@
   ],
   "skillList": [
     {
+      "skill_name": "Golang 后端开发",
+      "skill_level": 90,
+      "skill_desc": "高并发后端开发经验",
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "Python",
+      "skill_level": 90,
+      "skill_desc": "后端开发以及E2E等自动化测试脚本经验",
+      "dataIndex": 3
+    }
+    {
       "skill_name": "TypeScript / JavaScript",
       "skill_level": 95
     },
@@ -69,24 +81,12 @@
       "skill_desc": "大型前端项目经验、组件库以及Monorepo开发经验",
       "skill_level": 90,
       "dataIndex": 1
-    },
-    {
-      "skill_name": "Golang 后端开发",
-      "skill_level": 80,
-      "skill_desc": "高并发后端开发经验",
-      "dataIndex": 2
-    },
-    {
-      "skill_name": "Python",
-      "skill_level": 80,
-      "skill_desc": "后端开发以及E2E等自动化测试脚本经验",
-      "dataIndex": 3
     }
   ],
   "projectList": [
     {
       "project_name": "Tigergraph Tools",
-      "project_role": "高级前端工程师",
+      "project_role": "高级全栈工程师",
       "project_time": "2024.01 - 至今",
       "project_desc": "Tigergraph Tools 是 Tigergraph 为企业用户提供的管理工具，帮助用户更好地使用 Tigergraph 图数据库，提升用户体验和工作效率。Tools 包含多个模块，涵盖图数据的可视化、查询、权限管理等功能，支持多种数据源和图算法，满足不同用户的需求。",
       "project_content": "1. 负责前端工程化，优化 monorepo，解决公用库、依赖管理等，提升开发、协作效率 2. 将其作为 Addons 支持接入 Cloud 场景，提供给更多用户 3. 迭代 Insights 需求，优化数据可视化场景，提升用户体验",
