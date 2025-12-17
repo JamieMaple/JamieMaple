@@ -41,7 +41,7 @@
       "company_name": "Tigergraph",
       "department_name": "Cloud & Tools",
       "work_time": "2024.01.15",
-      "work_desc": "1. 负责 Cloud 和 Tools 平台后端开发，基于 Go (Gin) 封装高性能 Web 框架，统一处理路由、中间件及全局异常，提升代码复用率。\n2. 为TG Cloud提供 Addons 扩展能力，引入 AI 功能支持\n3. 针对 B 端客户，通过 Metrics 采集多维度资源消耗数据，实现业务用量的精准统计与实时监控。\n4. 构建完善的后端测试矩阵，优化单元测试与集成测试，将代码覆盖率从 5% 提至 50%，确保持续集成过程中的系统鲁棒性。",
+      "work_desc": "1. 负责 Cloud 和 Tools 平台后端开发，基于 Go (Gin) 封装高性能 Web 框架，统一处理路由、中间件及全局异常，提升代码复用率。\n2. 为TG Cloud提供 Addons 扩展能力，引入 AI 功能支持\n3. 通过 Metrics 采集 B 端用户多维度资源消耗数据，实现业务用量的精准统计与实时监控。\n4. 构建完善的后端测试矩阵，优化单元测试与集成测试，将代码覆盖率从 5% 提至 50%，确保持续集成过程中的系统鲁棒性。",
       "dataIndex": 0
     },
     {
@@ -56,22 +56,23 @@
     {
       "skill_name": "Golang 后端开发",
       "skill_level": 90,
-      "skill_desc": "高并发后端开发经验",
+      "skill_desc": "Golang 高并发后端开发经验",
       "dataIndex": 2
     },
     {
-      "skill_name": "Python",
+      "skill_name": "Python 后端开发",
       "skill_level": 90,
-      "skill_desc": "后端开发以及E2E等自动化测试脚本经验",
+      "skill_desc": "Python 后端开发以及E2E等自动化测试脚本经验",
       "dataIndex": 3
     },
     {
-      "skill_name": "Nodejs / TypeScript",
+      "skill_name": "Nodejs 后端开发",
+      "skill_desc": "搭建 Nodejs Graphql 以及 Restful 接口服务",
       "skill_level": 95
     },
     {
-      "skill_name": "React / Vue / Angular 前端工程化",
-      "skill_desc": "大型前端项目经验、Monorepo开发经验",
+      "skill_name": "React 前端开发",
+      "skill_desc": "大型 React 项目经验、Monorepo开发经验",
       "skill_level": 90,
       "dataIndex": 1
     }
@@ -79,15 +80,15 @@
   "projectList": [
     {
       "project_name": "Tigergraph Tools",
-      "project_role": "高级全栈工程师",
+      "project_role": "后端工程师",
       "project_time": "2024.01 - 至今",
-      "project_desc": "Tigergraph Tools 是 Tigergraph 为企业用户提供的管理工具，帮助用户更好地使用 Tigergraph 图数据库，提升用户体验和工作效率。Tools 包含多个模块，涵盖图数据的可视化、查询、权限管理等功能，支持多种数据源和图算法，满足不同用户的需求。",
-      "project_content": "1. 负责前端工程化，优化 monorepo，解决公用库、依赖管理等，提升开发、协作效率 2. 将其作为 Addons 支持接入 Cloud 场景，提供给更多用户 3. 迭代 Insights 需求，优化数据可视化场景，提升用户体验",
+      "project_desc": "Tigergraph Tools 是 Tigergraph 为企业用户提供的管理工具，帮助用户更好地使用 Tigergraph 图数据库，提升用户体验和工作效率。Tools 包含多个模块，涵盖图数据的可视化、查询、权限管理、shell等功能，支持多种数据源和图算法，满足不同用户的需求。",
+      "project_content": "1. 负责核心业务接口研发，通过推行自动化规范与组件复用，提升开发效率 20% 以上，实现跨团队顺畅协作 2. 将其作为 Addons 支持接入 Cloud 场景，提供给更多用户 3. 迭代 Insights 需求，优化数据可视化场景，提升用户体验",
       "dataIndex": 0
     },
     {
       "project_name": "Gecko",
-      "project_role": "高级全栈工程师",
+      "project_role": "后端工程师",
       "project_time": "2020.09 - 2022.12",
       "project_desc": "Gecko 是字节跳动内部资源分发中台，专注于文件和数据分发场景，聚焦于客户端（移动端/PC）动态化能力，是面向字节全系产品的重要基础设施，旨在向字节跳动服务提供业界一流的动态化场景支持；目前已在抖音、今日头条、西瓜视频等字节跳动系App落地多年，并已支持公司多次重大活动",
       "project_content": "1. 面向字节跳动内部研发人员，对平台体验精雕细琢的打磨 2. 建立离线化失败场景下的在线机制。目前仍在迭代中，已帮助抖音钱包、直播等业务提高研发效率 3. 处理研发同学 oncall 问题，提供客户端动态化离线、在线资源解决方案",
@@ -96,7 +97,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "全栈工程师，目前就职于 Tigergraph，目前主要负责 TG Cloud 和 Tools 等项目。5年大型复杂产品开发经验，负责过字节跳动内部客户端分发、抖音电商、直播等平台建设，参与了多个大型活动，对客户端分发有较为丰富的经验。"
+    "aboutme_desc": "后端工程师，目前就职于 Tigergraph，目前主要负责 TG Cloud 和 Tools 等项目。5年大型复杂产品开发经验，负责过字节跳动内部客户端分发、抖音电商、直播等平台建设，参与了多个大型活动，对客户端分发有较为丰富的经验。"
   },
   "theme": {
     "color": "#2f5785",
