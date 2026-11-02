@@ -38,18 +38,25 @@
   "awardList": [],
   "workExpList": [
     {
+      "company_name": "Deepcoin",
+      "department_name": "平台创新组",
+      "work_time": "2025.12,2026.07"<
+      "work_desc": "占位",
+      "dataIndex": 0
+    },
+    {
       "company_name": "Tigergraph",
       "department_name": "Cloud & Tools",
-      "work_time": "2024.01.15",
+      "work_time": "2024.01,2025.11",
       "work_desc": "1. 负责 Cloud 和 Tools 平台后端开发，基于 Go (Gin) 封装高性能 Web 框架，统一处理路由、中间件及全局异常，提升代码复用率。\n2. 为TG Cloud提供 Addons 扩展能力，引入 AI 功能支持\n3. 通过 Metrics 采集 B 端用户多维度资源消耗数据，实现业务用量的精准统计与实时监控。\n4. 构建完善的后端测试矩阵，优化单元测试与集成测试，将代码覆盖率从 5% 提至 50%，确保持续集成过程中的系统鲁棒性。",
-      "dataIndex": 0
+      "dataIndex": 1
     },
     {
       "company_name": "字节跳动",
       "department_name": "互娱研发基础⼯程 & 财经研发",
-      "work_time": "2020.07.01,2023.06.30",
+      "work_time": "2020.06,2023.07",
       "work_desc": "1. 负责字节跳动核心 App（抖音、今日头条、西瓜视频）的动态资源下发系统开发。采用 Node.js 作为 BFF (Backend For Frontend) 层，实现灵活的业务逻辑聚合与多端协议适配。\n2. 核心高性能逻辑通过 RPC (Thrift) 调用 Go 微服务，支撑日活亿级用户的资源下发请求。针对复杂业务逻辑与高耗时操作，利用 Kafka 实现消息解耦与异步处理，大幅提升系统吞吐量与响应速度。\n3. 深度参与春节、世界杯等顶级流量活动，通过全链路压测、缓存策略优化及限流熔断机制，确保服务在超高并发场景下的高可用性\n4. 担任控制面核心开发，基于 React + Tailwind CSS + shadcn/ui 构建高性能、响应式的管理后台，为内部 RD 提供极致的交互体验。",
-      "dataIndex": 2
+      "dataIndex": 3
     }
   ],
   "skillList": [
